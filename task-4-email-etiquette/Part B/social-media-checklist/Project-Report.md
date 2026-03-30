@@ -1,4 +1,4 @@
-Project Report Section: Poor Digital Communication Scenario (300–350 Words)
+**Project Report Section: Poor Digital Communication Scenario**
 
 Poor digital communication can often lead to misunderstandings, conflicts, and even serious professional or academic consequences. One situation that illustrates this is a hypothetical scenario involving a college group project. In this situation, a group of students was working together on an important presentation. One of the group members sent a message in the group chat saying, “This part is wrong, someone fix it,” without specifying what exactly was wrong or who should fix it. The message sounded rude and unclear, which led to confusion and frustration among the group members. Some students felt criticized, while others ignored the message because they thought someone else would handle it. As a result, the mistake was not corrected on time, and the group submitted an incomplete presentation, which affected everyone’s grades.
 
