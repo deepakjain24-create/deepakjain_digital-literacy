@@ -160,5 +160,3 @@ digital-literacy-project/
 
 
 ---
-
-If you want, I can also write a **short GitHub description and project tags**.
