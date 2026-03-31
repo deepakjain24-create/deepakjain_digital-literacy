@@ -49,6 +49,9 @@ Reports show that UPI fraud cases have increased significantly in India, with th
 
 This case study shows that UPI fraud is a growing digital crime and users must protect their phones, never share OTP or UPI PIN, and immediately report fraud to the bank and cybercrime portal.
 
-[1]: https://timesofindia.indiatimes.com/city/delhi/police-arrest-2-fraudsters-in-20-lakh-upi-hijack-scam/articleshow/119494828.cms?utm_source=chatgpt.com "Police arrest 2 fraudsters in 20-lakh UPI ‘hijack scam’ | Delhi News - The Times of India"
-[2]: https://www.business-standard.com/economy/news/indians-see-wallets-drained-by-rs-485-cr-in-upi-scams-124112601339_1.html?utm_source=chatgpt.com "Indians see wallets drain by Rs 485 crore in 'UPI scams' in FY25 | Economy & Policy News - Business Standard"
+**###Source**
+
+[https://timesofindia.indiatimes.com/city/delhi/police-arrest-2-fraudsters-in-20-lakh-upi-hijack-scam/articleshow/119494828.cms?utm_source=chatgpt.com "Police arrest 2 fraudsters in 20-lakh UPI ‘hijack scam’ | Delhi News - The Times of India"](https://timesofindia.indiatimes.com/city/delhi/police-arrest-2-fraudsters-in-20-lakh-upi-hijack-scam/articleshow/119494828.cms?utm_source=chatgpt.com%20%22Police%20arrest%202%20fraudsters%20in%2020-lakh%20UPI%20%E2%80%98hijack%20scam%E2%80%99%20|%20Delhi%20News%20-%20The%20Times%20of%20India%22)
+
+[https://www.business-standard.com/economy/news/indians-see-wallets-drained-by-rs-485-cr-in-upi-scams-124112601339_1.html?utm_source=chatgpt.com "Indians see wallets drain by Rs 485 crore in 'UPI scams' in FY25 | Economy & Policy News - Business Standard"](https://www.business-standard.com/economy/news/indians-see-wallets-drained-by-rs-485-cr-in-upi-scams-124112601339_1.html?utm_source=chatgpt.com%20%22Indians%20see%20wallets%20drain%20by%20Rs%20485%20crore%20in%20%27UPI%20scams%27%20in%20FY25%20|%20Economy%20&%20Policy%20News%20-%20Business%20Standard%22)
 
