@@ -1,7 +1,3 @@
-# deepakjain_digital-literacy
-Below is a **complete README.md** you can upload to your GitHub repository as your **Digital Literacy Project Report**.
-
----
 
 # Digital Literacy Project – README
 
@@ -156,10 +152,12 @@ digital-literacy-project/
 
 ## Author
 
-**Name:** Your Name
+**Name:** DEEPAK JAIN 
 **Course:** Digital Literacy
 **Project:** Digital Literacy Project
 **Year:** 2026
+**Rego. no.** 25BCE10066
+
 
 ---
 
