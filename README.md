@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This project was completed as part of a Digital Literacy course to understand and practice responsible digital communication, email etiquette, social media responsibility, online safety, cybercrime awareness, and digital payment fraud awareness. The project focused on real-world digital communication scenarios and safe online behavior for college students.
+This project was completed as part of a Digital Literacy course to understand and practice responsible digital communication, email etiquette, social media responsibility, online safety, cybercrime awareness, and digital payment fraud awareness. The project focused on real-world digital communication scenarios and safe online behavior for us.
 
 The purpose of this project was not only to learn theory but also to apply digital communication skills in practical situations such as writing professional emails, understanding cyber fraud, and learning how to stay safe online.
 
